@@ -1,0 +1,11 @@
+C:\Users\skrnr\source\repos\EnglishTest\EnglishTest\bin\Debug\EnglishTest.exe.config
+C:\Users\skrnr\source\repos\EnglishTest\EnglishTest\bin\Debug\EnglishTest.exe
+C:\Users\skrnr\source\repos\EnglishTest\EnglishTest\bin\Debug\EnglishTest.pdb
+C:\Users\skrnr\source\repos\EnglishTest\EnglishTest\obj\Debug\EnglishTest.csprojAssemblyReference.cache
+C:\Users\skrnr\source\repos\EnglishTest\EnglishTest\obj\Debug\EnglishTest.Main.resources
+C:\Users\skrnr\source\repos\EnglishTest\EnglishTest\obj\Debug\EnglishTest.Properties.Resources.resources
+C:\Users\skrnr\source\repos\EnglishTest\EnglishTest\obj\Debug\EnglishTest.csproj.GenerateResource.cache
+C:\Users\skrnr\source\repos\EnglishTest\EnglishTest\obj\Debug\EnglishTest.csproj.CoreCompileInputs.cache
+C:\Users\skrnr\source\repos\EnglishTest\EnglishTest\obj\Debug\EnglishTest.exe
+C:\Users\skrnr\source\repos\EnglishTest\EnglishTest\obj\Debug\EnglishTest.pdb
+C:\Users\skrnr\source\repos\EnglishTest\EnglishTest\obj\Debug\EnglishTest.AbstractQuestionForm.resources
