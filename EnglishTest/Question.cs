@@ -57,6 +57,8 @@ namespace EnglishTest
                 // 出力
                 AllQuestionList = (List<AbstractQuestion>)serializer.ReadObject(reader);
 
+                string test = "testes";
+
                 return true;
             }
             catch (Exception e)
